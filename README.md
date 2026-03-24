@@ -1,6 +1,6 @@
-# Zila Seba - Landing Page Clone
+# Zila Seba - Landing Page Redesign
 
-A pixel-perfect recreation of the **Zila Seba** mobile app landing page. Built from scratch with React 19, Vite 8, and Tailwind CSS 4 as a frontend development exercise.
+A modern redesign inspired by the **Zila Seba** mobile app landing page. Built from scratch with React 19, Vite 8, and Tailwind CSS 4 as a frontend development exercise.
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite&logoColor=white)
@@ -13,7 +13,7 @@ A pixel-perfect recreation of the **Zila Seba** mobile app landing page. Built f
 
 ## About
 
-Zila Seba is a local digital services platform in Bangladesh offering a marketplace, doctor directory, blood donor search, tourism guides, emergency contacts, rentals, and more. This project recreates its landing page as a single-page application with smooth animations and a fully responsive dark-themed UI.
+Zila Seba is a local digital services platform in Bangladesh offering a marketplace, doctor directory, blood donor search, tourism guides, emergency contacts, rentals, and more. This project reimagines its landing page as a single-page application with smooth animations and a fully responsive dark-themed UI.
 
 ### Features
 
@@ -61,9 +61,9 @@ src/
 ## Getting Started
 
 ```bash
-# Clone the repo
-git clone https://github.com/foxbinner/zilaseba.com.git
-cd zilaseba.com
+# Get the repo
+git clone https://github.com/foxbinner/zilaseba-redesign.git
+cd zilaseba-redesign
 
 # Install dependencies
 npm install
@@ -89,14 +89,14 @@ npm run preview
 
 ## Disclaimer
 
-This is a **clone project** built purely for educational and portfolio purposes. It is **not affiliated with, endorsed by, or connected to** the original Zila Seba app or its owners in any way.
+This is a **redesign project** built purely for educational and portfolio purposes. It is **not affiliated with, endorsed by, or connected to** the original Zila Seba app or its owners in any way.
 
 All trademarks, logos, and brand names belong to their respective owners.
 
 - **Original App:** [Zila Seba on Google Play](https://play.google.com/store/apps/details?id=com.global.zilaseba)
 - **Original Facebook:** [Zila Seba Facebook Page](https://www.facebook.com/globalzilasebabd)
 
-> If you are the owner of Zila Seba and would like this repository removed, please [open an issue](https://github.com/foxbinner/zilaseba.com/issues) or contact me directly. I will take it down immediately.
+> If you are the owner of Zila Seba and would like this repository removed, please [open an issue](https://github.com/foxbinner/zilaseba-redesign/issues) or contact me directly. I will take it down immediately.
 
 ## License
 
